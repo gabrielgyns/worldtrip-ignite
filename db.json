@@ -1,0 +1,310 @@
+{
+    "continents": [
+        {
+            "id": "europe",
+            "title": "Europa",
+            "imageBanner": "/images/banner_continent/europe.png",
+            "cities": [
+                {
+                    "city": "Londres",
+                    "country": "Reino Unido",
+                    "imageCover": "/images/cover_countries/londres.png",
+                    "imageCountry": "/images/avatar_countries/reinounido.svg"
+                },
+                {
+                    "city": "Paris",
+                    "country": "França",
+                    "imageCover": "/images/cover_countries/paris.png",
+                    "imageCountry": "/images/avatar_countries/franca.svg"
+                },
+                {
+                    "city": "Roma",
+                    "country": "Itália",
+                    "imageCover": "/images/cover_countries/roma.png",
+                    "imageCountry": "/images/avatar_countries/italia.svg"
+                },
+                {
+                    "city": "Praga",
+                    "country": "República Tcheca",
+                    "imageCover": "/images/cover_countries/praga.png",
+                    "imageCountry": "/images/avatar_countries/republicatcheca.svg"
+                },
+                {
+                    "city": "Amsterdã",
+                    "country": "Holanda",
+                    "imageCover": "/images/cover_countries/amsterda.png",
+                    "imageCountry": "/images/avatar_countries/holanda.svg"
+                }
+            ],
+            "bio": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+            "highlights": [
+                {
+                    "numberInfo": "50",
+                    "text": "países"
+                },
+                {
+                    "numberInfo": "60",
+                    "text": "línguas"
+                },
+                {
+                    "numberInfo": "27",
+                    "text": "cidades +100"
+                }
+            ]
+        },
+        {
+            "id": "south-america",
+            "title": "América do Sul",
+            "imageBanner": "https://images.unsplash.com/photo-1619546952812-520e98064a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+            "cities": [
+                {
+                    "city": "Rio de Janeiro",
+                    "country": "Brasil",
+                    "imageCover": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "imageCountry": "https://http2.mlstatic.com/D_NQ_NP_875824-MLB31736463387_082019-O.jpg"
+                },
+                {
+                    "city": "Florianópolis",
+                    "country": "Brasil",
+                    "imageCover": "https://images.unsplash.com/photo-1587142281950-877f8c3ad44d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "imageCountry": "https://http2.mlstatic.com/D_NQ_NP_875824-MLB31736463387_082019-O.jpg"
+                },
+                {
+                    "city": "Santiago",
+                    "country": "Chile",
+                    "imageCover": "https://images.unsplash.com/photo-1535479672101-8486af672be0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "imageCountry": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png"
+                },
+                {
+                    "city": "Buenos Aires",
+                    "country": "Argentina",
+                    "imageCover": "https://images.unsplash.com/photo-1609080814811-5837f3c7095a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+                    "imageCountry": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg"
+                },
+                {
+                    "city": "Punta del Este",
+                    "country": "Uruguai",
+                    "imageCover": "https://images.unsplash.com/photo-1591323803333-ea760190d6d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+                    "imageCountry": "https://lh3.googleusercontent.com/proxy/dckxS-2zrmz5QESQy1GxU-fOP0YtqDfFTdL0Kmy9eAkTD3ktETPDexLBq9KkxS7StLY0ZBUQDHP-WBcAMjEsFGcAZ4O5P0K2aEIBiMpHIOPwfm5no81SVJU"
+                }
+            ],
+            "bio": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake.",
+            "highlights": [
+                {
+                    "numberInfo": "12",
+                    "text": "países"
+                },
+                {
+                    "numberInfo": "05",
+                    "text": "línguas"
+                },
+                {
+                    "numberInfo": "27",
+                    "text": "cidades +100"
+                }
+            ]
+        },
+        {
+            "id": "north-america",
+            "title": "América do Norte",
+            "imageBanner": "https://images.unsplash.com/photo-1551042863-dbb4938b111f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+            "cities": [
+                {
+                    "city": "Nova Iorque",
+                    "country": "Estados Unidos",
+                    "imageCover": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "imageCountry": "https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg"
+                },
+                {
+                    "city": "Orlando",
+                    "country": "Flórida",
+                    "imageCover": "https://images.unsplash.com/photo-1618945373370-7bde4f8dd9c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80",
+                    "imageCountry": "https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg"
+                },
+                {
+                    "city": "Toronto",
+                    "country": "Canadá",
+                    "imageCover": "https://images.unsplash.com/photo-1490623970972-ae8bb3da443e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+                    "imageCountry": "https://http2.mlstatic.com/D_NQ_NP_940324-MLB26996430264_032018-O.jpg"
+                },
+                {
+                    "city": "Vancouver",
+                    "country": "Canadá",
+                    "imageCover": "https://images.unsplash.com/photo-1559511260-66a654ae982a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=918&q=80",
+                    "imageCountry": "https://http2.mlstatic.com/D_NQ_NP_940324-MLB26996430264_032018-O.jpg"
+                },
+                {
+                    "city": "Québec",
+                    "country": "Canadá",
+                    "imageCover": "https://images.unsplash.com/photo-1524022523577-9005d7ae69d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "imageCountry": "https://http2.mlstatic.com/D_NQ_NP_940324-MLB26996430264_032018-O.jpg"
+                }
+            ],
+            "bio": "A América do Norte corresponde à parte norte do continente americano, é formada por três países, Estados Unidos, Canadá e México, que ocupam juntos uma área de 23,6 milhões de quilômetros quadrados. Essa porção do continente americano está situada no ocidente e no hemisfério norte, esse limita-se ao norte com o Oceano Ártico, leste com Oceano Atlântico, sudeste com o mar das Caraíbas e no sul e oeste com o Oceano Pacífico.",
+            "highlights": [
+                {
+                    "numberInfo": "03",
+                    "text": "países"
+                },
+                {
+                    "numberInfo": "6",
+                    "text": "línguas"
+                },
+                {
+                    "numberInfo": "27",
+                    "text": "cidades +100"
+                }
+            ]
+        },
+        {
+            "id": "asia",
+            "title": "Ásia",
+            "imageBanner": "https://images.unsplash.com/photo-1549693578-d683be217e58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1777&q=80",
+            "cities": [
+                {
+                    "city": "Tokyo",
+                    "country": "Japão",
+                    "imageCover": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=894&q=80",
+                    "imageCountry": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+                },
+                {
+                    "city": "Xangai",
+                    "country": "China",
+                    "imageCover": "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "imageCountry": "https://www.significados.com.br/foto/china.jpg"
+                },
+                {
+                    "city": "Beijing",
+                    "country": "China",
+                    "imageCover": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                    "imageCountry": "https://www.significados.com.br/foto/china.jpg"
+                },
+                {
+                    "city": "Seul",
+                    "country": "Coréia do Sul",
+                    "imageCover": "https://images.unsplash.com/photo-1548115184-bc6544d06a58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "imageCountry": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/300px-Flag_of_South_Korea.svg.png"
+                }
+            ],
+            "bio": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+            "highlights": [
+                {
+                    "numberInfo": "50",
+                    "text": "países"
+                },
+                {
+                    "numberInfo": "07",
+                    "text": "línguas"
+                },
+                {
+                    "numberInfo": "27",
+                    "text": "cidades +100"
+                }
+            ]
+        },
+        {
+            "id": "africa",
+            "title": "África",
+            "imageBanner": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+            "cities": [
+                {
+                    "city": "Londres",
+                    "country": "Reino Unido",
+                    "imageCover": "/images/cover_countries/londres.png",
+                    "imageCountry": "/images/avatar_countries/reinounido.svg"
+                },
+                {
+                    "city": "Paris",
+                    "country": "França",
+                    "imageCover": "/images/cover_countries/paris.png",
+                    "imageCountry": "/images/avatar_countries/franca.svg"
+                },
+                {
+                    "city": "Roma",
+                    "country": "Itália",
+                    "imageCover": "/images/cover_countries/roma.png",
+                    "imageCountry": "/images/avatar_countries/italia.svg"
+                },
+                {
+                    "city": "Praga",
+                    "country": "República Tcheca",
+                    "imageCover": "/images/cover_countries/praga.png",
+                    "imageCountry": "/images/avatar_countries/republicatcheca.svg"
+                },
+                {
+                    "city": "Amsterdã",
+                    "country": "Holanda",
+                    "imageCover": "/images/cover_countries/amsterda.png",
+                    "imageCountry": "/images/avatar_countries/holanda.svg"
+                }
+            ],
+            "bio": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+            "highlights": [
+                {
+                    "numberInfo": "50",
+                    "text": "países"
+                },
+                {
+                    "numberInfo": "60",
+                    "text": "línguas"
+                },
+                {
+                    "numberInfo": "27",
+                    "text": "cidades +100"
+                }
+            ]
+        },
+        {
+            "id": "oceania",
+            "title": "Oceania",
+            "imageBanner": "https://images.unsplash.com/photo-1600208669687-f19af3638cb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "cities": [
+                {
+                    "city": "Londres",
+                    "country": "Reino Unido",
+                    "imageCover": "/images/cover_countries/londres.png",
+                    "imageCountry": "/images/avatar_countries/reinounido.svg"
+                },
+                {
+                    "city": "Paris",
+                    "country": "França",
+                    "imageCover": "/images/cover_countries/paris.png",
+                    "imageCountry": "/images/avatar_countries/franca.svg"
+                },
+                {
+                    "city": "Roma",
+                    "country": "Itália",
+                    "imageCover": "/images/cover_countries/roma.png",
+                    "imageCountry": "/images/avatar_countries/italia.svg"
+                },
+                {
+                    "city": "Praga",
+                    "country": "República Tcheca",
+                    "imageCover": "/images/cover_countries/praga.png",
+                    "imageCountry": "/images/avatar_countries/republicatcheca.svg"
+                },
+                {
+                    "city": "Amsterdã",
+                    "country": "Holanda",
+                    "imageCover": "/images/cover_countries/amsterda.png",
+                    "imageCountry": "/images/avatar_countries/holanda.svg"
+                }
+            ],
+            "bio": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+            "highlights": [
+                {
+                    "numberInfo": "50",
+                    "text": "países"
+                },
+                {
+                    "numberInfo": "60",
+                    "text": "línguas"
+                },
+                {
+                    "numberInfo": "27",
+                    "text": "cidades +100"
+                }
+            ]
+        }
+    ]
+}
