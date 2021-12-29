@@ -1,4 +1,4 @@
-import { Flex, HStack, Stack, useBreakpointValue } from "@chakra-ui/react";
+import { Stack, useBreakpointValue } from "@chakra-ui/react";
 import { TypeItem } from "./TypeItem";
 
 export const TravelTypes = () => {
